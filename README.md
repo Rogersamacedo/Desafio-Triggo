@@ -1,4 +1,4 @@
-Não consigui completar o desafio mas vou relata até onde consegui chegar:
+Não consigui completar o desafio, mas vou relatar até onde consegui chegar:
 Importei os arquivos CSV do dataset do caminho https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 transformei em dataframes;
 Fiz a normalização de colunas quando necessário;
